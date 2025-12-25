@@ -1,0 +1,8 @@
+import math
+num = float(input("Enter a number: "))
+sq = math.sqrt(num)
+n = math.log(num)
+s = math.sin(num)
+print("Square root: ",sq)
+print("logarithim: ",n)
+print("Sine: ",s)
